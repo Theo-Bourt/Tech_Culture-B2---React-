@@ -1,0 +1,236 @@
+[
+  {
+    "source": "asml",
+    "cible": "tsmc",
+    "description": "Lui vend ses machines de lithographie, dont les systèmes EUV. TSMC est considérée comme son plus grand client.",
+    "lien": "https://www.trendforce.com/news/2026/05/01/news-behind-tsmcs-high-na-euv-deferral-low-na-stays-strong-customer-landscape-shifts-and-asml-quietly-pivots/"
+  },
+  {
+    "source": "tsmc",
+    "cible": "nvidia",
+    "description": "Fabrique ses puces. Nvidia est devenue sa plus grande cliente en 2025.",
+    "lien": "https://www.taiwannews.com.tw/news/6289054"
+  },
+  {
+    "source": "tsmc",
+    "cible": "qualcomm",
+    "description": "Fabrique des puces Snapdragon, dont le Snapdragon 8 Elite.",
+    "lien": "https://www.eenewseurope.com/en/qualcomm-aims-for-samsung-phones-with-3nm-snapdragon-from-tsmc"
+  },
+  {
+    "source": "tsmc",
+    "cible": "broadcom",
+    "description": "Fabrique les puces qu'elle développe, notamment les TPU conçues avec Google.",
+    "lien": "https://www.jonpeddie.com/news/ironwood-chetyorka-google-broadcom-mediatek-and-tsmc/"
+  },
+  {
+    "source": "tsmc",
+    "cible": "apple",
+    "description": "Fabrique les puces de ses iPhone et de ses autres appareils.",
+    "lien": "https://www.taiwannews.com.tw/news/6289054"
+  },
+  {
+    "source": "nvidia",
+    "cible": "oracle",
+    "description": "Fournit ses plateformes GPU à Oracle Cloud.",
+    "lien": "https://ecorpit.com/nvidia-vera-rubin-cloud-instances-ai-workloads-2026/"
+  },
+  {
+    "source": "nvidia",
+    "cible": "microsoft",
+    "description": "Fournit ses plateformes GPU à Microsoft Azure.",
+    "lien": "https://ecorpit.com/nvidia-vera-rubin-cloud-instances-ai-workloads-2026/"
+  },
+  {
+    "source": "nvidia",
+    "cible": "google",
+    "description": "Fournit ses plateformes GPU à Google Cloud.",
+    "lien": "https://ecorpit.com/nvidia-vera-rubin-cloud-instances-ai-workloads-2026/"
+  },
+  {
+    "source": "qualcomm",
+    "cible": "microsoft",
+    "description": "Ses puces Snapdragon X équipent des PC Surface.",
+    "lien": "https://m.gsmarena.com/microsoft_unveils_1000_surface_laptop_with_snapdragon_x_chip_copilot_ai_features-news-62972.php"
+  },
+  {
+    "source": "qualcomm",
+    "cible": "apple",
+    "description": "Fournit des modems 5G pour les iPhone, selon un accord de 2023 qui couvre les modèles lancés jusqu'en 2026.",
+    "lien": "https://techwireasia.com/2023/09/apple-qualcomm-renewed-deal-for-modem-chips/"
+  },
+  {
+    "source": "broadcom",
+    "cible": "google",
+    "description": "Développe et produit ses puces d'IA TPU, avec un accord prolongé jusqu'en 2031.",
+    "lien": "https://www.fool.com/investing/2026/04/07/broadcom-inks-major-ai-chip-deals-with-google-and/"
+  },
+  {
+    "source": "broadcom",
+    "cible": "apple",
+    "description": "Fournit des composants radio, Wi-Fi et Bluetooth, avec un accord prolongé jusqu'en 2031.",
+    "lien": "https://www.ithinkdiff.com/apple-broadcom-chip-partnership-2031-extension/"
+  },
+  {
+    "source": "microsoft",
+    "cible": "datadog",
+    "description": "Propose Datadog directement dans la console Azure, dans le cadre d'un partenariat stratégique annoncé en 2020.",
+    "lien": "https://www.datadoghq.com/about/latest-news/press-releases/datadog-microsoft-strategic-partnership/"
+  },
+  {
+    "source": "google",
+    "cible": "datadog",
+    "description": "Partenaire stratégique de Datadog sur Google Cloud, un accord élargi en 2023 à Vertex AI.",
+    "lien": "https://www.datadoghq.com/about/latest-news/press-releases/datadog-expands-strategic-partnership-with-google-cloud-and-integrates-with-vertex-ai/"
+  },
+  {
+    "source": "microsoft",
+    "cible": "openai",
+    "description": "Partenaire historique pour le cloud. L'exclusivité a pris fin en 2025 et l'accord a été révisé.",
+    "lien": "https://www.itpro.com/business/business-strategy/openai-cfo-teases-new-money-making-plans-as-ai-giant-targets-practical-adoption-gains-in-2026-and-beyond"
+  },
+  {
+    "source": "oracle",
+    "cible": "openai",
+    "description": "Lui fournit de la puissance de calcul et participe au projet Stargate.",
+    "lien": "https://www.itpro.com/business/business-strategy/openai-cfo-teases-new-money-making-plans-as-ai-giant-targets-practical-adoption-gains-in-2026-and-beyond"
+  },
+  {
+    "source": "nvidia",
+    "cible": "openai",
+    "description": "Lui fournit des puces dans le cadre d'accords de plusieurs centaines de milliards de dollars.",
+    "lien": "https://www.itpro.com/business/business-strategy/openai-cfo-teases-new-money-making-plans-as-ai-giant-targets-practical-adoption-gains-in-2026-and-beyond"
+  },
+  {
+    "source": "openai",
+    "cible": "meta",
+    "description": "GPT-4 a été intégré à Metamate, son outil interne de développement, en 2024.",
+    "lien": "https://www.fortune.com/2024/12/03/meta-openai-gpt-4-llama-coding-tool"
+  },
+  {
+    "source": "openai",
+    "cible": "salesforce",
+    "description": "Ses modèles alimentent la plateforme Agentforce.",
+    "lien": "https://finance.yahoo.com/news/salesforce-deepens-ai-ties-openai-124533128.html"
+  },
+  {
+    "source": "openai",
+    "cible": "hubspot",
+    "description": "ChatGPT dispose d'un connecteur vers le CRM de HubSpot depuis 2025.",
+    "lien": "https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt"
+  },
+  {
+    "source": "anthropic",
+    "cible": "salesforce",
+    "description": "Claude est intégré à Agentforce, et Salesforce déploie Claude Code auprès de ses équipes.",
+    "lien": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership"
+  },
+  {
+    "source": "google",
+    "cible": "anthropic",
+    "description": "Lui donne accès à jusqu'à un million de puces TPU sur Google Cloud.",
+    "lien": "https://aimagazine.com/news/why-anthropic-uses-google-cloud-tpus-for-ai-infrastructure"
+  },
+  {
+    "source": "broadcom",
+    "cible": "anthropic",
+    "description": "Participe à un accord de plusieurs gigawatts de capacité TPU à partir de 2027.",
+    "lien": "https://www.constellationr.com/index%2Ephp/insights/news/anthropic-inks-deal-google-broadcom-tpu-capacity"
+  },
+  {
+    "source": "nvidia",
+    "cible": "anthropic",
+    "description": "Ses GPU font partie des puces utilisées pour faire tourner Claude.",
+    "lien": "https://aimagazine.com/news/why-anthropic-uses-google-cloud-tpus-for-ai-infrastructure"
+  },
+  {
+    "source": "mistral",
+    "cible": "asml",
+    "description": "Travaille avec ASML sur des cas d'ingénierie. ASML est aussi actionnaire de Mistral AI.",
+    "lien": "https://mistral.ai/news/ai-now-summit-2026/"
+  },
+  {
+    "source": "nvidia",
+    "cible": "mistral",
+    "description": "Ses GPU ont servi à entraîner les modèles de Mistral AI.",
+    "lien": "https://www.datacenterdynamics.com/en/news/mistral-ai-trained-latest-model-25x-faster-using-nvidia-gb200-nvl72-says-coreweave/"
+  },
+  {
+    "source": "microsoft",
+    "cible": "mistral",
+    "description": "Azure héberge une partie de sa plateforme d'inférence.",
+    "lien": "https://enix.io/en/clients/usecases/mistralai/"
+  },
+  {
+    "source": "google",
+    "cible": "mistral",
+    "description": "Google Cloud héberge une partie de sa plateforme d'inférence.",
+    "lien": "https://enix.io/en/clients/usecases/mistralai/"
+  },
+  {
+    "source": "nvidia",
+    "cible": "bytedance",
+    "description": "ByteDance aurait été son premier acheteur chinois en 2025, avant des restrictions imposées par Pékin.",
+    "lien": "https://stocktwits.com/news-articles/markets/equity/bytedance-reportedly-tops-chinese-nvidia-chip-buyers-but-now-it-can-t-use-them/cL53FkSREWe"
+  },
+  {
+    "source": "alphabet",
+    "cible": "google",
+    "description": "Maison mère de Google depuis 2015, dont elle tire l'essentiel de ses revenus.",
+    "lien": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000012/googexhibit991q42025.htm"
+  },
+  {
+    "source": "anthropic",
+    "cible": "sap",
+    "description": "Claude est intégré comme capacité de raisonnement dans Joule et les agents de SAP, selon l'annonce de 2026.",
+    "lien": "https://resources.rework.com/news/ai-at-work/sap-sapphire-2026-joule-studio-autonomous-enterprise-cto"
+  },
+  {
+    "source": "mistral",
+    "cible": "sap",
+    "description": "Ses modèles sont proposés dans le service d'IA générative de SAP, selon l'annonce de 2024.",
+    "lien": "https://itbrief.co.uk/story/sap-unveils-major-generative-ai-advances-collaborations"
+  },
+  {
+    "source": "nvidia",
+    "cible": "sap",
+    "description": "Partenariat annoncé en 2024 pour intégrer ses technologies aux applications de SAP.",
+    "lien": "https://itbrief.co.uk/story/sap-unveils-major-generative-ai-advances-collaborations"
+  },
+  {
+    "source": "google",
+    "cible": "sap",
+    "description": "Partenariat annoncé en 2024 pour anticiper les risques dans les chaînes d'approvisionnement.",
+    "lien": "https://itbrief.co.uk/story/sap-unveils-major-generative-ai-advances-collaborations"
+  },
+  {
+    "source": "samsung",
+    "cible": "nvidia",
+    "description": "Lui fournit de la mémoire HBM4 pour ses accélérateurs d'IA Vera Rubin, selon la presse coréenne.",
+    "lien": "https://www.koreajoongangdaily.com/business/samsung-nvidia-discuss-hbm4e-hbm5-deals/12696549"
+  },
+  {
+    "source": "asml",
+    "cible": "samsung",
+    "description": "Lui vend ses machines de lithographie. Samsung prévoit de produire de la mémoire en volume avec ses systèmes High NA d'ici 2028.",
+    "lien": "https://www.ksl.com/article/51623584/analysis-asml-extends-chipmaking-dominance-as-customers-embrace-high-na"
+  },
+  {
+    "source": "qualcomm",
+    "cible": "samsung",
+    "description": "Ses puces Snapdragon 8 Elite Gen 5 équipent le Galaxy S26 Ultra dans le monde entier, et les autres S26 sur certains marchés.",
+    "lien": "https://www.qualcomm.com/snapdragon/news/just-announced--the-samsung-galaxy-s26-series--powered-by-snapdr"
+  },
+  {
+    "source": "google",
+    "cible": "samsung",
+    "description": "Son modèle Gemini alimente une grande partie des fonctions Galaxy AI. Samsung visait 800 millions d'appareils équipés en 2026.",
+    "lien": "https://www.dawn.com/news/1965249"
+  },
+  {
+    "source": "openai",
+    "cible": "samsung",
+    "description": "Fournit ChatGPT Enterprise et Codex à ses salariés, selon un accord annoncé en juin 2026.",
+    "lien": "https://www.koreatimes.co.kr/business/tech-science/20260622/openai-lands-samsung-as-major-chatgpt-enterprise-customer"
+  }
+]

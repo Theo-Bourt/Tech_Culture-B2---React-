@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "rtx-2018",
+    "entrepriseId": "nvidia",
+    "annee": 2018,
+    "titre": "Cartes RTX et ray tracing en temps réel",
+    "categorie": "produit",
+    "description": "Les cartes de la série RTX (architecture Turing) intègrent des unités dédiées au ray tracing en temps réel et à l'IA.",
+    "liens": [
+      "geforce-1999"
+    ]
+  },
+  {
+    "id": "fondation-nvidia-1993",
+    "entrepriseId": "nvidia",
+    "annee": 1993,
+    "titre": "Fondation de Nvidia",
+    "categorie": "entreprise",
+    "description": "Jensen Huang, Chris Malachowski et Curtis Priem fondent l'entreprise, d'abord centrée sur les cartes graphiques pour PC.",
+    "liens": []
+  },
+  {
+    "id": "cuda-2007",
+    "entrepriseId": "nvidia",
+    "annee": 2007,
+    "titre": "Lancement de CUDA",
+    "categorie": "technologie",
+    "description": "CUDA permet d'utiliser les GPU pour des calculs généraux, pas seulement pour l'image. Il deviendra la base du calcul pour l'IA.",
+    "liens": [
+      "geforce-1999",
+      "alexnet-2012"
+    ]
+  },
+  {
+    "id": "geforce-1999",
+    "entrepriseId": "nvidia",
+    "annee": 1999,
+    "titre": "GeForce 256, présentée comme le premier GPU",
+    "categorie": "produit",
+    "description": "Nvidia commercialise la GeForce 256 et popularise le terme GPU pour désigner un processeur dédié aux calculs graphiques.",
+    "liens": [
+      "fondation-nvidia-1993"
+    ]
+  },
+  {
+    "id": "alexnet-2012",
+    "entrepriseId": "nvidia",
+    "annee": 2012,
+    "titre": "AlexNet et l'essor de l'apprentissage profond sur GPU",
+    "categorie": "technologie",
+    "description": "Le réseau de neurones AlexNet, entraîné sur des GPU Nvidia, remporte le concours ImageNet et lance l'essor de l'apprentissage profond.",
+    "liens": [
+      "cuda-2007"
+    ]
+  },
+  {
+    "id": "mellanox-2020",
+    "entrepriseId": "nvidia",
+    "annee": 2020,
+    "titre": "Rachat de Mellanox finalisé",
+    "categorie": "acquisition",
+    "description": "Nvidia finalise l'acquisition du spécialiste des réseaux Mellanox pour renforcer son offre pour les centres de données.",
+    "liens": []
+  },
+  {
+    "id": "iphone-2007",
+    "entrepriseId": "apple",
+    "annee": 2007,
+    "titre": "Lancement du premier iPhone",
+    "categorie": "produit",
+    "description": "Apple présente un téléphone tactile qui change le marché des smartphones.",
+    "liens": [
+      "ipod-2001",
+      "ipad-2010"
+    ]
+  },
+  {
+    "id": "fondation-apple-1976",
+    "entrepriseId": "apple",
+    "annee": 1976,
+    "titre": "Fondation d'Apple",
+    "categorie": "entreprise",
+    "description": "Steve Jobs, Steve Wozniak et Ronald Wayne créent l'entreprise.",
+    "liens": []
+  },
+  {
+    "id": "m1-2020",
+    "entrepriseId": "apple",
+    "annee": 2020,
+    "titre": "Puce Apple M1 pour les Mac",
+    "categorie": "technologie",
+    "description": "Apple abandonne les processeurs Intel pour ses propres puces, les Apple Silicon.",
+    "liens": []
+  },
+  {
+    "id": "macintosh-1984",
+    "entrepriseId": "apple",
+    "annee": 1984,
+    "titre": "Lancement du Macintosh",
+    "categorie": "produit",
+    "description": "Premier ordinateur personnel grand public à interface graphique et souris à connaître un large succès.",
+    "liens": [
+      "fondation-apple-1976"
+    ]
+  },
+  {
+    "id": "ipod-2001",
+    "entrepriseId": "apple",
+    "annee": 2001,
+    "titre": "Lancement de l'iPod",
+    "categorie": "produit",
+    "description": "Un baladeur numérique qui relance Apple sur le marché grand public.",
+    "liens": []
+  },
+  {
+    "id": "ipad-2010",
+    "entrepriseId": "apple",
+    "annee": 2010,
+    "titre": "Lancement de l'iPad",
+    "categorie": "produit",
+    "description": "Apple popularise la tablette tactile.",
+    "liens": [
+      "iphone-2007"
+    ]
+  },
+  {
+    "id": "windows95-1995",
+    "entrepriseId": "microsoft",
+    "annee": 1995,
+    "titre": "Sortie de Windows 95",
+    "categorie": "produit",
+    "description": "Introduit le menu Démarrer et la barre des tâches, et s'impose sur les PC du monde entier.",
+    "liens": [
+      "windows-1985"
+    ]
+  },
+  {
+    "id": "fondation-microsoft-1975",
+    "entrepriseId": "microsoft",
+    "annee": 1975,
+    "titre": "Fondation de Microsoft",
+    "categorie": "entreprise",
+    "description": "Bill Gates et Paul Allen fondent l'entreprise pour développer des logiciels pour micro-ordinateurs.",
+    "liens": []
+  },
+  {
+    "id": "github-2018",
+    "entrepriseId": "microsoft",
+    "annee": 2018,
+    "titre": "Acquisition de GitHub",
+    "categorie": "acquisition",
+    "description": "Microsoft rachète la plateforme d'hébergement de code utilisée par des millions de développeurs.",
+    "liens": []
+  },
+  {
+    "id": "windows-1985",
+    "entrepriseId": "microsoft",
+    "annee": 1985,
+    "titre": "Sortie de Windows 1.0",
+    "categorie": "produit",
+    "description": "Première version de l'interface graphique de Microsoft pour MS-DOS.",
+    "liens": [
+      "fondation-microsoft-1975"
+    ]
+  },
+  {
+    "id": "xbox-2001",
+    "entrepriseId": "microsoft",
+    "annee": 2001,
+    "titre": "Lancement de la Xbox",
+    "categorie": "produit",
+    "description": "Microsoft entre sur le marché des consoles de jeux.",
+    "liens": []
+  },
+  {
+    "id": "nadella-2014",
+    "entrepriseId": "microsoft",
+    "annee": 2014,
+    "titre": "Satya Nadella devient PDG",
+    "categorie": "entreprise",
+    "description": "Il recentre l'entreprise sur le cloud avec Azure.",
+    "liens": []
+  },
+  {
+    "id": "fondation-asml-1984",
+    "entrepriseId": "asml",
+    "annee": 1984,
+    "titre": "Fondation d'ASML",
+    "categorie": "entreprise",
+    "description": "Philips et ASM International créent une coentreprise pour commercialiser une machine de lithographie conçue chez Philips.",
+    "liens": []
+  },
+  {
+    "id": "bourse-asml-1995",
+    "entrepriseId": "asml",
+    "annee": 1995,
+    "titre": "Entrée en bourse",
+    "categorie": "entreprise",
+    "description": "ASML devient une entreprise indépendante et entre en bourse à Amsterdam et sur le Nasdaq.",
+    "liens": [
+      "fondation-asml-1984"
+    ]
+  },
+  {
+    "id": "euv-prototype-2010",
+    "entrepriseId": "asml",
+    "annee": 2010,
+    "titre": "Premier prototype de machine EUV",
+    "categorie": "technologie",
+    "description": "ASML livre le TWINSCAN NXE:3100, un prototype qui utilise la lumière ultraviolette extrême pour graver des motifs plus fins.",
+    "liens": []
+  },
+  {
+    "id": "cymer-2013",
+    "entrepriseId": "asml",
+    "annee": 2013,
+    "titre": "Acquisition de Cymer",
+    "categorie": "acquisition",
+    "description": "ASML rachète ce fabricant américain de sources lumineuses pour accélérer le développement de l'EUV.",
+    "liens": [
+      "euv-prototype-2010"
+    ]
+  },
+  {
+    "id": "high-na-2023",
+    "entrepriseId": "asml",
+    "annee": 2023,
+    "titre": "Premiers systèmes EUV High NA",
+    "categorie": "produit",
+    "description": "ASML livre sa nouvelle génération de machines EUV, dotée d'une ouverture numérique plus élevée pour graver encore plus finement.",
+    "liens": [
+      "euv-prototype-2010"
+    ]
+  },
+  {
+    "id": "fondation-tsmc-1987",
+    "entrepriseId": "tsmc",
+    "annee": 1987,
+    "titre": "Fondation de TSMC",
+    "categorie": "entreprise",
+    "description": "Morris Chang fonde l'entreprise à Hsinchu avec le soutien de l'État taïwanais et de Philips, autour d'un modèle de fonderie dédiée.",
+    "liens": []
+  },
+  {
+    "id": "bourse-tsmc-1994",
+    "entrepriseId": "tsmc",
+    "annee": 1994,
+    "titre": "Entrée en bourse à Taïwan",
+    "categorie": "entreprise",
+    "description": "TSMC fait son entrée à la bourse de Taïwan.",
+    "liens": [
+      "fondation-tsmc-1987"
+    ]
+  },
+  {
+    "id": "tsmc-28nm-2011",
+    "entrepriseId": "tsmc",
+    "annee": 2011,
+    "titre": "Procédé de gravure en 28 nm",
+    "categorie": "technologie",
+    "description": "TSMC devient la première fonderie à proposer un procédé 28 nm à usage général.",
+    "liens": []
+  },
+  {
+    "id": "tsmc-7nm-2018",
+    "entrepriseId": "tsmc",
+    "annee": 2018,
+    "titre": "Production en volume en 7 nm",
+    "categorie": "technologie",
+    "description": "TSMC devient la première fonderie à produire en volume avec un procédé FinFET de 7 nm.",
+    "liens": [
+      "tsmc-28nm-2011"
+    ]
+  },
+  {
+    "id": "arizona-2020",
+    "entrepriseId": "tsmc",
+    "annee": 2020,
+    "titre": "Annonce d'une usine en Arizona",
+    "categorie": "entreprise",
+    "description": "TSMC annonce son intention de construire une usine de puces avancées aux États-Unis, en Arizona.",
+    "liens": []
+  },
+  {
+    "id": "tsmc-3nm-2022",
+    "entrepriseId": "tsmc",
+    "annee": 2022,
+    "titre": "Production en volume en 3 nm",
+    "categorie": "technologie",
+    "description": "TSMC lance la production à grande échelle de son procédé FinFET de 3 nm.",
+    "liens": [
+      "tsmc-7nm-2018"
+    ]
+  },
+  {
+    "id": "fondation-datadog-2010",
+    "entrepriseId": "datadog",
+    "annee": 2010,
+    "titre": "Fondation de Datadog",
+    "categorie": "entreprise",
+    "description": "Olivier Pomel et Alexis Lê-Quôc créent l'entreprise à New York.",
+    "liens": []
+  },
+  {
+    "id": "mortar-2015",
+    "entrepriseId": "datadog",
+    "annee": 2015,
+    "titre": "Acquisition de Mortar Data",
+    "categorie": "acquisition",
+    "description": "Datadog rachète cette start-up pour rapprocher l'analyse de données de la supervision.",
+    "liens": []
+  },
+  {
+    "id": "logmatic-2017",
+    "entrepriseId": "datadog",
+    "annee": 2017,
+    "titre": "Acquisition de Logmatic.io",
+    "categorie": "acquisition",
+    "description": "Le rachat de cette start-up parisienne ajoute la gestion des journaux à la plateforme de Datadog.",
+    "liens": [
+      "mortar-2015"
+    ]
+  },
+  {
+    "id": "bourse-datadog-2019",
+    "entrepriseId": "datadog",
+    "annee": 2019,
+    "titre": "Entrée en bourse sur le Nasdaq",
+    "categorie": "entreprise",
+    "description": "Datadog lève 648 millions de dollars lors de son introduction en bourse.",
+    "liens": [
+      "fondation-datadog-2010"
+    ]
+  },
+  {
+    "id": "sqreen-2021",
+    "entrepriseId": "datadog",
+    "annee": 2021,
+    "titre": "Acquisition de Sqreen",
+    "categorie": "acquisition",
+    "description": "Datadog rachète ce spécialiste de la sécurité des applications pour renforcer son offre dans ce domaine.",
+    "liens": [
+      "logmatic-2017"
+    ]
+  },
+  {
+    "id": "fondation-google-1998",
+    "entrepriseId": "google",
+    "annee": 1998,
+    "titre": "Fondation de Google",
+    "categorie": "entreprise",
+    "description": "Larry Page et Sergey Brin créent officiellement Google Inc. à partir de leur projet de moteur de recherche.",
+    "liens": []
+  },
+  {
+    "id": "adwords-2000",
+    "entrepriseId": "google",
+    "annee": 2000,
+    "titre": "Lancement d'AdWords",
+    "categorie": "produit",
+    "description": "Cette plateforme de publicité en ligne devient le cœur du modèle économique de Google.",
+    "liens": [
+      "fondation-google-1998"
+    ]
+  },
+  {
+    "id": "android-2005",
+    "entrepriseId": "google",
+    "annee": 2005,
+    "titre": "Acquisition d'Android",
+    "categorie": "acquisition",
+    "description": "Google rachète cette start-up, dont le système deviendra l'un des principaux systèmes d'exploitation pour smartphones.",
+    "liens": []
+  },
+  {
+    "id": "youtube-2006",
+    "entrepriseId": "google",
+    "annee": 2006,
+    "titre": "Acquisition de YouTube",
+    "categorie": "acquisition",
+    "description": "Google rachète le site de partage de vidéos pour 1,65 milliard de dollars.",
+    "liens": []
+  },
+  {
+    "id": "alphabet-2015",
+    "entrepriseId": "google",
+    "annee": 2015,
+    "titre": "Création d'Alphabet",
+    "categorie": "entreprise",
+    "description": "Le groupe se réorganise sous une nouvelle société mère, dont Google devient la principale filiale.",
+    "liens": [
+      "fondation-google-1998"
+    ]
+  },
+  {
+    "id": "transformer-2017",
+    "entrepriseId": "google",
+    "annee": 2017,
+    "titre": "Publication de l'architecture Transformer",
+    "categorie": "technologie",
+    "description": "Des chercheurs de Google publient « Attention Is All You Need », un article à la base des grands modèles de langage actuels.",
+    "liens": []
+  },
+  {
+    "id": "fondation-qualcomm-1985",
+    "entrepriseId": "qualcomm",
+    "annee": 1985,
+    "titre": "Fondation de Qualcomm",
+    "categorie": "entreprise",
+    "description": "Irwin Jacobs, Andrew Viterbi et d'autres anciens de Linkabit fondent l'entreprise.",
+    "liens": []
+  },
+  {
+    "id": "bourse-qualcomm-1991",
+    "entrepriseId": "qualcomm",
+    "annee": 1991,
+    "titre": "Entrée en bourse",
+    "categorie": "entreprise",
+    "description": "L'introduction en bourse finance le développement des infrastructures de téléphonie mobile CDMA.",
+    "liens": [
+      "fondation-qualcomm-1985"
+    ]
+  },
+  {
+    "id": "snapdragon-2007",
+    "entrepriseId": "qualcomm",
+    "annee": 2007,
+    "titre": "Lancement de Snapdragon",
+    "categorie": "produit",
+    "description": "Qualcomm présente sa gamme de processeurs pour appareils mobiles, qui équipera le premier téléphone Android en 2008.",
+    "liens": []
+  },
+  {
+    "id": "atheros-2011",
+    "entrepriseId": "qualcomm",
+    "annee": 2011,
+    "titre": "Acquisition d'Atheros",
+    "categorie": "acquisition",
+    "description": "Qualcomm rachète ce fabricant de puces Wi-Fi et Ethernet pour environ 3,1 milliards de dollars.",
+    "liens": []
+  },
+  {
+    "id": "nuvia-2021",
+    "entrepriseId": "qualcomm",
+    "annee": 2021,
+    "titre": "Acquisition de Nuvia",
+    "categorie": "acquisition",
+    "description": "Qualcomm rachète pour environ 1,4 milliard de dollars cette start-up de processeurs fondée par d'anciens architectes d'Apple et de Google.",
+    "liens": []
+  },
+  {
+    "id": "snapdragon-x-2023",
+    "entrepriseId": "qualcomm",
+    "annee": 2023,
+    "titre": "Présentation de la gamme Snapdragon X",
+    "categorie": "produit",
+    "description": "Cette plateforme pour PC Windows intègre le processeur Oryon, issu du rachat de Nuvia, et une unité dédiée à l'IA.",
+    "liens": [
+      "nuvia-2021",
+      "snapdragon-2007"
+    ]
+  },
+  {
+    "id": "fondation-broadcom-1991",
+    "entrepriseId": "broadcom",
+    "annee": 1991,
+    "titre": "Fondation de Broadcom Corporation",
+    "categorie": "entreprise",
+    "description": "Henry Samueli, professeur à UCLA, et son ancien étudiant Henry Nicholas créent l'entreprise.",
+    "liens": []
+  },
+  {
+    "id": "avago-broadcom-2016",
+    "entrepriseId": "broadcom",
+    "annee": 2016,
+    "titre": "Fusion avec Avago",
+    "categorie": "acquisition",
+    "description": "Avago Technologies rachète Broadcom Corporation pour 37 milliards de dollars, et le nouvel ensemble adopte le nom de Broadcom.",
+    "liens": [
+      "fondation-broadcom-1991"
+    ]
+  },
+  {
+    "id": "ca-technologies-2018",
+    "entrepriseId": "broadcom",
+    "annee": 2018,
+    "titre": "Acquisition de CA Technologies",
+    "categorie": "acquisition",
+    "description": "Ce rachat de 18,9 milliards de dollars marque l'entrée de Broadcom dans les logiciels d'entreprise.",
+    "liens": []
+  },
+  {
+    "id": "symantec-2019",
+    "entrepriseId": "broadcom",
+    "annee": 2019,
+    "titre": "Rachat des activités entreprises de Symantec",
+    "categorie": "acquisition",
+    "description": "Broadcom acquiert cette branche de cybersécurité pour 10,7 milliards de dollars.",
+    "liens": [
+      "ca-technologies-2018"
+    ]
+  },
+  {
+    "id": "vmware-2023",
+    "entrepriseId": "broadcom",
+    "annee": 2023,
+    "titre": "Acquisition de VMware",
+    "categorie": "acquisition",
+    "description": "Broadcom finalise le rachat de ce spécialiste de la virtualisation, pour environ 69 milliards de dollars.",
+    "liens": [
+      "ca-technologies-2018",
+      "symantec-2019"
+    ]
+  },
+  {
+    "id": "fondation-oracle-1977",
+    "entrepriseId": "oracle",
+    "annee": 1977,
+    "titre": "Fondation de Software Development Laboratories",
+    "categorie": "entreprise",
+    "description": "Larry Ellison, Bob Miner et Ed Oates créent la société qui deviendra Oracle.",
+    "liens": []
+  },
+  {
+    "id": "oracle-v2-1979",
+    "entrepriseId": "oracle",
+    "annee": 1979,
+    "titre": "Commercialisation d'Oracle V2",
+    "categorie": "produit",
+    "description": "L'une des premières bases de données relationnelles commerciales. Elle s'appelle V2 car l'équipe craignait que les clients n'achètent pas une première version.",
+    "liens": [
+      "fondation-oracle-1977"
+    ]
+  },
+  {
+    "id": "bourse-oracle-1986",
+    "entrepriseId": "oracle",
+    "annee": 1986,
+    "titre": "Entrée en bourse",
+    "categorie": "entreprise",
+    "description": "Oracle fait son introduction en bourse en mars 1986.",
+    "liens": []
+  },
+  {
+    "id": "peoplesoft-2005",
+    "entrepriseId": "oracle",
+    "annee": 2005,
+    "titre": "Acquisition de PeopleSoft",
+    "categorie": "acquisition",
+    "description": "Après une longue bataille boursière, Oracle renforce sa place dans les logiciels de gestion d'entreprise.",
+    "liens": []
+  },
+  {
+    "id": "sun-2010",
+    "entrepriseId": "oracle",
+    "annee": 2010,
+    "titre": "Acquisition de Sun Microsystems",
+    "categorie": "acquisition",
+    "description": "Oracle récupère les serveurs de Sun ainsi que Java et MySQL.",
+    "liens": []
+  },
+  {
+    "id": "cerner-2022",
+    "entrepriseId": "oracle",
+    "annee": 2022,
+    "titre": "Acquisition de Cerner",
+    "categorie": "acquisition",
+    "description": "Oracle rachète ce spécialiste des logiciels de santé, sa plus grosse acquisition à cette date.",
+    "liens": [
+      "peoplesoft-2005"
+    ]
+  },
+  {
+    "id": "fondation-openai-2015",
+    "entrepriseId": "openai",
+    "annee": 2015,
+    "titre": "Fondation d'OpenAI",
+    "categorie": "entreprise",
+    "description": "Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever et d'autres créent un laboratoire de recherche à but non lucratif.",
+    "liens": []
+  },
+  {
+    "id": "microsoft-openai-2019",
+    "entrepriseId": "openai",
+    "annee": 2019,
+    "titre": "Premier investissement de Microsoft",
+    "categorie": "entreprise",
+    "description": "Microsoft investit un milliard de dollars et devient son partenaire pour le cloud.",
+    "liens": [
+      "fondation-openai-2015"
+    ]
+  },
+  {
+    "id": "gpt3-2020",
+    "entrepriseId": "openai",
+    "annee": 2020,
+    "titre": "Publication de GPT-3",
+    "categorie": "technologie",
+    "description": "Ce modèle de langage montre des capacités de rédaction bien supérieures aux précédents.",
+    "liens": []
+  },
+  {
+    "id": "chatgpt-2022",
+    "entrepriseId": "openai",
+    "annee": 2022,
+    "titre": "Lancement de ChatGPT",
+    "categorie": "produit",
+    "description": "L'assistant conversationnel popularise l'IA générative auprès du grand public.",
+    "liens": [
+      "gpt3-2020"
+    ]
+  },
+  {
+    "id": "stargate-2025",
+    "entrepriseId": "openai",
+    "annee": 2025,
+    "titre": "Annonce du projet Stargate",
+    "categorie": "entreprise",
+    "description": "OpenAI, SoftBank, Oracle et MGX annoncent un projet de centres de données à 500 milliards de dollars.",
+    "liens": [
+      "chatgpt-2022"
+    ]
+  },
+  {
+    "id": "thefacebook-2004",
+    "entrepriseId": "meta",
+    "annee": 2004,
+    "titre": "Lancement de Facebook",
+    "categorie": "produit",
+    "description": "Mark Zuckerberg et ses camarades lancent le réseau social à Harvard.",
+    "liens": []
+  },
+  {
+    "id": "instagram-2012",
+    "entrepriseId": "meta",
+    "annee": 2012,
+    "titre": "Acquisition d'Instagram",
+    "categorie": "acquisition",
+    "description": "Facebook rachète l'application de partage de photos, l'année de son entrée en bourse.",
+    "liens": [
+      "thefacebook-2004"
+    ]
+  },
+  {
+    "id": "whatsapp-2014",
+    "entrepriseId": "meta",
+    "annee": 2014,
+    "titre": "Acquisition de WhatsApp",
+    "categorie": "acquisition",
+    "description": "Facebook rachète la messagerie pour environ 19 milliards de dollars.",
+    "liens": []
+  },
+  {
+    "id": "renommage-meta-2021",
+    "entrepriseId": "meta",
+    "annee": 2021,
+    "titre": "Facebook devient Meta",
+    "categorie": "entreprise",
+    "description": "Le groupe change de nom et affiche son ambition dans la réalité virtuelle.",
+    "liens": [
+      "thefacebook-2004"
+    ]
+  },
+  {
+    "id": "llama-2023",
+    "entrepriseId": "meta",
+    "annee": 2023,
+    "titre": "Publication de Llama",
+    "categorie": "technologie",
+    "description": "Meta diffuse une famille de modèles de langage auprès des chercheurs.",
+    "liens": []
+  },
+  {
+    "id": "fondation-bytedance-2012",
+    "entrepriseId": "bytedance",
+    "annee": 2012,
+    "titre": "Fondation de ByteDance",
+    "categorie": "entreprise",
+    "description": "Zhang Yiming et Liang Rubo lancent l'agrégateur d'actualités Toutiao depuis un appartement de Pékin.",
+    "liens": []
+  },
+  {
+    "id": "douyin-2016",
+    "entrepriseId": "bytedance",
+    "annee": 2016,
+    "titre": "Lancement de Douyin",
+    "categorie": "produit",
+    "description": "L'application de vidéos courtes sort en Chine.",
+    "liens": [
+      "fondation-bytedance-2012"
+    ]
+  },
+  {
+    "id": "tiktok-2017",
+    "entrepriseId": "bytedance",
+    "annee": 2017,
+    "titre": "Lancement de TikTok à l'international",
+    "categorie": "produit",
+    "description": "La version internationale de Douyin arrive, suivie du rachat de Musical.ly.",
+    "liens": [
+      "douyin-2016"
+    ]
+  },
+  {
+    "id": "liang-rubo-2021",
+    "entrepriseId": "bytedance",
+    "annee": 2021,
+    "titre": "Liang Rubo devient PDG",
+    "categorie": "entreprise",
+    "description": "Il succède au fondateur Zhang Yiming, dont il était le camarade de chambre à l'université.",
+    "liens": [
+      "fondation-bytedance-2012"
+    ]
+  },
+  {
+    "id": "doubao-2026",
+    "entrepriseId": "bytedance",
+    "annee": 2026,
+    "titre": "Doubao dépasse 400 millions d'utilisateurs",
+    "categorie": "technologie",
+    "description": "L'assistant d'IA atteint 419 millions d'utilisateurs mensuels en Chine en septembre, loin devant ses concurrents.",
+    "liens": []
+  },
+  {
+    "id": "fondation-salesforce-1999",
+    "entrepriseId": "salesforce",
+    "annee": 1999,
+    "titre": "Fondation de Salesforce",
+    "categorie": "entreprise",
+    "description": "Marc Benioff et ses associés lancent un logiciel de gestion client accessible par internet.",
+    "liens": []
+  },
+  {
+    "id": "bourse-salesforce-2004",
+    "entrepriseId": "salesforce",
+    "annee": 2004,
+    "titre": "Entrée en bourse",
+    "categorie": "entreprise",
+    "description": "Salesforce entre à la bourse de New York.",
+    "liens": [
+      "fondation-salesforce-1999"
+    ]
+  },
+  {
+    "id": "tableau-2019",
+    "entrepriseId": "salesforce",
+    "annee": 2019,
+    "titre": "Acquisition de Tableau",
+    "categorie": "acquisition",
+    "description": "Salesforce s'offre ce spécialiste de la visualisation de données.",
+    "liens": []
+  },
+  {
+    "id": "slack-2021",
+    "entrepriseId": "salesforce",
+    "annee": 2021,
+    "titre": "Acquisition de Slack",
+    "categorie": "acquisition",
+    "description": "Salesforce finalise le rachat de la messagerie d'entreprise.",
+    "liens": [
+      "tableau-2019"
+    ]
+  },
+  {
+    "id": "agentforce-2024",
+    "entrepriseId": "salesforce",
+    "annee": 2024,
+    "titre": "Lancement d'Agentforce",
+    "categorie": "produit",
+    "description": "Salesforce lance sa plateforme d'agents d'IA pour les entreprises.",
+    "liens": []
+  },
+  {
+    "id": "fondation-anthropic-2021",
+    "entrepriseId": "anthropic",
+    "annee": 2021,
+    "titre": "Fondation d'Anthropic",
+    "categorie": "entreprise",
+    "description": "D'anciens chercheurs d'OpenAI, dont Dario et Daniela Amodei, créent une entreprise axée sur la sûreté de l'IA.",
+    "liens": []
+  },
+  {
+    "id": "claude-2023",
+    "entrepriseId": "anthropic",
+    "annee": 2023,
+    "titre": "Lancement de Claude",
+    "categorie": "produit",
+    "description": "Anthropic rend public son premier assistant d'IA.",
+    "liens": [
+      "fondation-anthropic-2021"
+    ]
+  },
+  {
+    "id": "claude-code-2025",
+    "entrepriseId": "anthropic",
+    "annee": 2025,
+    "titre": "Lancement de Claude Code",
+    "categorie": "produit",
+    "description": "Cet outil de programmation assistée par IA devient l'un de ses principaux moteurs de croissance.",
+    "liens": [
+      "claude-2023"
+    ]
+  },
+  {
+    "id": "rainier-2025",
+    "entrepriseId": "anthropic",
+    "annee": 2025,
+    "titre": "Mise en service du projet Rainier",
+    "categorie": "technologie",
+    "description": "AWS active pour Anthropic un cluster de près de 500 000 puces Trainium2.",
+    "liens": []
+  },
+  {
+    "id": "tpu-broadcom-2026",
+    "entrepriseId": "anthropic",
+    "annee": 2026,
+    "titre": "Accord avec Google et Broadcom",
+    "categorie": "entreprise",
+    "description": "Anthropic s'assure plusieurs gigawatts de capacité de calcul sur puces TPU à partir de 2027.",
+    "liens": [
+      "rainier-2025"
+    ]
+  },
+  {
+    "id": "fondation-mistral-2023",
+    "entrepriseId": "mistral",
+    "annee": 2023,
+    "titre": "Fondation de Mistral AI",
+    "categorie": "entreprise",
+    "description": "Arthur Mensch, Guillaume Lample et Timothée Lacroix créent l'entreprise à Paris.",
+    "liens": []
+  },
+  {
+    "id": "mistral-7b-2023",
+    "entrepriseId": "mistral",
+    "annee": 2023,
+    "titre": "Publication de Mistral 7B",
+    "categorie": "technologie",
+    "description": "Son premier modèle est diffusé en accès ouvert.",
+    "liens": [
+      "fondation-mistral-2023"
+    ]
+  },
+  {
+    "id": "le-chat-2024",
+    "entrepriseId": "mistral",
+    "annee": 2024,
+    "titre": "Lancement du Chat",
+    "categorie": "produit",
+    "description": "Mistral AI lance son assistant conversationnel.",
+    "liens": [
+      "mistral-7b-2023"
+    ]
+  },
+  {
+    "id": "asml-mistral-2025",
+    "entrepriseId": "mistral",
+    "annee": 2025,
+    "titre": "Levée de fonds menée par ASML",
+    "categorie": "entreprise",
+    "description": "ASML mène une levée de 1,7 milliard d'euros et investit 1,3 milliard dans Mistral AI.",
+    "liens": []
+  },
+  {
+    "id": "fondation-hubspot-2006",
+    "entrepriseId": "hubspot",
+    "annee": 2006,
+    "titre": "Fondation de HubSpot",
+    "categorie": "entreprise",
+    "description": "Brian Halligan et Dharmesh Shah créent l'entreprise à Cambridge, dans le Massachusetts.",
+    "liens": []
+  },
+  {
+    "id": "bourse-hubspot-2014",
+    "entrepriseId": "hubspot",
+    "annee": 2014,
+    "titre": "Entrée en bourse",
+    "categorie": "entreprise",
+    "description": "HubSpot entre à la bourse de New York.",
+    "liens": [
+      "fondation-hubspot-2006"
+    ]
+  },
+  {
+    "id": "crm-gratuit-2014",
+    "entrepriseId": "hubspot",
+    "annee": 2014,
+    "titre": "Lancement du CRM gratuit",
+    "categorie": "produit",
+    "description": "Une version gratuite de son logiciel de gestion client attire de nombreuses petites entreprises.",
+    "liens": []
+  },
+  {
+    "id": "rangan-2021",
+    "entrepriseId": "hubspot",
+    "annee": 2021,
+    "titre": "Yamini Rangan devient PDG",
+    "categorie": "entreprise",
+    "description": "Elle succède à Brian Halligan à la tête de l'entreprise.",
+    "liens": []
+  },
+  {
+    "id": "connecteur-chatgpt-2025",
+    "entrepriseId": "hubspot",
+    "annee": 2025,
+    "titre": "Connecteur avec ChatGPT",
+    "categorie": "produit",
+    "description": "HubSpot lance un connecteur de recherche approfondie entre son CRM et ChatGPT.",
+    "liens": [
+      "crm-gratuit-2014"
+    ]
+  },
+  {
+    "id": "creation-alphabet-2015",
+    "entrepriseId": "alphabet",
+    "annee": 2015,
+    "titre": "Création d'Alphabet",
+    "categorie": "entreprise",
+    "description": "Le groupe se réorganise sous une nouvelle société mère, dont Google devient la principale filiale.",
+    "liens": []
+  },
+  {
+    "id": "waymo-2016",
+    "entrepriseId": "alphabet",
+    "annee": 2016,
+    "titre": "Waymo devient une société distincte",
+    "categorie": "entreprise",
+    "description": "Le projet de voiture autonome de Google, lancé en 2009, devient une filiale d'Alphabet.",
+    "liens": [
+      "creation-alphabet-2015"
+    ]
+  },
+  {
+    "id": "pichai-alphabet-2019",
+    "entrepriseId": "alphabet",
+    "annee": 2019,
+    "titre": "Sundar Pichai prend la tête d'Alphabet",
+    "categorie": "entreprise",
+    "description": "Il succède à Larry Page tout en restant PDG de Google.",
+    "liens": [
+      "creation-alphabet-2015"
+    ]
+  },
+  {
+    "id": "revenus-alphabet-2025",
+    "entrepriseId": "alphabet",
+    "annee": 2025,
+    "titre": "Plus de 400 milliards de revenus",
+    "categorie": "entreprise",
+    "description": "Alphabet réalise 402,8 milliards de dollars de chiffre d'affaires sur l'année.",
+    "liens": []
+  },
+  {
+    "id": "fondation-sap-1972",
+    "entrepriseId": "sap",
+    "annee": 1972,
+    "titre": "Fondation de SAP",
+    "categorie": "entreprise",
+    "description": "D'anciens employés d'IBM créent Systemanalyse und Programmentwicklung en Allemagne.",
+    "liens": []
+  },
+  {
+    "id": "r3-1992",
+    "entrepriseId": "sap",
+    "annee": 1992,
+    "titre": "Sortie de SAP R/3",
+    "categorie": "produit",
+    "description": "Ce logiciel de gestion accélère l'expansion internationale de SAP, notamment aux États-Unis et en Asie.",
+    "liens": [
+      "fondation-sap-1972"
+    ]
+  },
+  {
+    "id": "concur-2014",
+    "entrepriseId": "sap",
+    "annee": 2014,
+    "titre": "Acquisition de Concur",
+    "categorie": "acquisition",
+    "description": "SAP ajoute la gestion des déplacements et des notes de frais à son offre cloud.",
+    "liens": []
+  },
+  {
+    "id": "s4hana-2015",
+    "entrepriseId": "sap",
+    "annee": 2015,
+    "titre": "Lancement de S/4HANA",
+    "categorie": "produit",
+    "description": "Cette nouvelle génération de son logiciel de gestion repose sur la base de données en mémoire HANA.",
+    "liens": [
+      "r3-1992"
+    ]
+  },
+  {
+    "id": "klein-2020",
+    "entrepriseId": "sap",
+    "annee": 2020,
+    "titre": "Christian Klein devient seul PDG",
+    "categorie": "entreprise",
+    "description": "Il prend seul la tête de l'entreprise, après une période de codirection.",
+    "liens": []
+  },
+  {
+    "id": "cloud-sap-2025",
+    "entrepriseId": "sap",
+    "annee": 2025,
+    "titre": "Le cloud dépasse 21 milliards d'euros",
+    "categorie": "entreprise",
+    "description": "Les revenus du cloud progressent de 23 % et représentent plus de la moitié du chiffre d'affaires.",
+    "liens": [
+      "s4hana-2015"
+    ]
+  },
+  {
+    "id": "fondation-samsung-1969",
+    "entrepriseId": "samsung",
+    "annee": 1969,
+    "titre": "Fondation de Samsung Electronics",
+    "categorie": "entreprise",
+    "description": "Le groupe Samsung crée à Suwon une filiale d'électronique, d'abord appelée Samsung Electric Industries.",
+    "liens": []
+  },
+  {
+    "id": "samsung-dram-1983",
+    "entrepriseId": "samsung",
+    "annee": 1983,
+    "titre": "Première mémoire DRAM de 64 Kb",
+    "categorie": "technologie",
+    "description": "Samsung développe sa première DRAM de 64 Kb, une étape de son essor dans la mémoire.",
+    "liens": [
+      "fondation-samsung-1969"
+    ]
+  },
+  {
+    "id": "galaxy-2009",
+    "entrepriseId": "samsung",
+    "annee": 2009,
+    "titre": "Premier smartphone Galaxy",
+    "categorie": "produit",
+    "description": "Samsung lance son premier Galaxy, un smartphone sous Android, qui ouvre la gamme la plus connue de la marque.",
+    "liens": []
+  },
+  {
+    "id": "harman-2017",
+    "entrepriseId": "samsung",
+    "annee": 2017,
+    "titre": "Rachat de Harman",
+    "categorie": "acquisition",
+    "description": "Samsung finalise le rachat de Harman pour environ 8 milliards de dollars et renforce sa présence dans l'audio et l'automobile.",
+    "liens": []
+  },
+  {
+    "id": "galaxy-fold-2019",
+    "entrepriseId": "samsung",
+    "annee": 2019,
+    "titre": "Galaxy Fold, le smartphone pliable",
+    "categorie": "produit",
+    "description": "Le Galaxy Fold lance la gamme de smartphones pliables de Samsung.",
+    "liens": [
+      "galaxy-2009"
+    ]
+  },
+  {
+    "id": "samsung-tesla-2025",
+    "entrepriseId": "samsung",
+    "annee": 2025,
+    "titre": "Contrat de puces avec Tesla",
+    "categorie": "entreprise",
+    "description": "Samsung signe un contrat d'environ 16,5 milliards de dollars sur huit ans pour fabriquer des puces d'IA pour Tesla.",
+    "liens": []
+  }
+]

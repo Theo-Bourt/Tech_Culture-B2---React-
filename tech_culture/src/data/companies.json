@@ -1,0 +1,1555 @@
+[
+  {
+    "id": "nvidia",
+    "nom": "Nvidia",
+    "pays": "États-Unis",
+    "secteur": "Semi-conducteurs",
+    "fondation": 1993,
+    "capitalisation": 0,
+    "chiffreAffaires": 215.9,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Santa Clara",
+      "lat": 37.3706,
+      "lng": -121.9669
+    },
+    "banniere": "/banners/HQ_Nvidia.png",
+    "description": "Nvidia conçoit les processeurs graphiques (GPU) qui font tourner les jeux vidéo et l'intelligence artificielle.",
+    "pointsCles": [
+      "Ses GPU servent à entraîner et à exécuter les modèles d'IA.",
+      "Les centres de données génèrent près de 90 % de ses revenus.",
+      "Sa plateforme CUDA permet de programmer ces puces pour le calcul général."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Jensen Huang",
+        "titre": "Fondateur et PDG",
+        "depuis": 1993,
+        "photo": "/ceos/huang.jpg",
+        "credit": {
+          "auteur": "Prime Minister's Office (Inde)",
+          "licence": "GODL-India",
+          "url": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_(cropped).jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "janvier 2026",
+      "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+      "segments": [
+        {
+          "nom": "Centres de données",
+          "part": 89.7
+        },
+        {
+          "nom": "Jeux vidéo",
+          "part": 7.4
+        },
+        {
+          "nom": "Visualisation professionnelle",
+          "part": 1.5
+        },
+        {
+          "nom": "Automobile",
+          "part": 1.1
+        },
+        {
+          "nom": "OEM et autres",
+          "part": 0.3
+        }
+      ]
+    },
+    "categorie": "Puces",
+    "vedette": true,
+    "logo": "/logos/nvidia.png",
+    "services": [
+      "Calcul d'IA dans le cloud (DGX Cloud)",
+      "Jeu en streaming (GeForce NOW)",
+      "Support logiciel pour l'IA en entreprise"
+    ],
+    "logiciels": {
+      "crees": [
+        "CUDA",
+        "Omniverse",
+        "NVIDIA App"
+      ],
+      "utilises": [
+        {
+          "nom": "Cursor",
+          "source": "https://cursor.com/blog/nvidia"
+        },
+        {
+          "nom": "Codex",
+          "source": "https://www.techradar.com/pro/cursor-claims-more-than-30-000-nvidia-engineers-commit-3x-more-code-and-make-coding-a-lot-more-fun-than-it-used-to-be-but-is-it-too-good-to-be-true"
+        }
+      ]
+    }
+  },
+  {
+    "id": "apple",
+    "nom": "Apple",
+    "pays": "États-Unis",
+    "secteur": "Matériel",
+    "fondation": 1976,
+    "capitalisation": 0,
+    "chiffreAffaires": 478.8,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Cupertino",
+      "lat": 37.3349,
+      "lng": -122.009
+    },
+    "banniere": "/banners/apple.jpg",
+    "logo": "/logos/apple.png",
+    "description": "Apple conçoit des smartphones, des ordinateurs et des services numériques pour le grand public.",
+    "pointsCles": [
+      "L'iPhone représente plus de la moitié de ses ventes.",
+      "Les services, comme la publicité et le cloud, pèsent environ un quart du total.",
+      "Elle conçoit ses propres puces, dont celles de ses Mac."
+    ],
+    "dirigeants": [
+      {
+        "nom": "John Ternus",
+        "titre": "PDG",
+        "depuis": 2026,
+        "photo": "/ceos/ternus.jpg",
+        "credit": {
+          "auteur": "Tessa Bury",
+          "licence": "CC BY 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:John_Ternus_at_the_Apple_50th_Anniversary_Kickoff_(cropped).jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "septembre 2026",
+      "source": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000026/aapl-20260926.htm",
+      "segments": [
+        {
+          "nom": "iPhone",
+          "part": 53.1
+        },
+        {
+          "nom": "Services",
+          "part": 25.8
+        },
+        {
+          "nom": "Mac",
+          "part": 7.9
+        },
+        {
+          "nom": "Accessoires et maison",
+          "part": 7.4
+        },
+        {
+          "nom": "iPad",
+          "part": 5.8
+        }
+      ]
+    },
+    "categorie": "Matériel",
+    "vedette": true,
+    "services": [
+      "iCloud",
+      "App Store",
+      "Apple Music",
+      "Apple TV",
+      "Apple Pay"
+    ],
+    "logiciels": {
+      "crees": [
+        "iOS",
+        "macOS",
+        "Safari",
+        "Final Cut Pro",
+        "Xcode"
+      ],
+      "utilises": [
+        {
+          "nom": "Apache Cassandra",
+          "source": "https://www.techrepublic.com/article/apples-secret-nosql-sauce-includes-a-hefty-dose-of-cassandra/"
+        },
+        {
+          "nom": "Kubernetes",
+          "source": "https://cncf.io/news/2020/11/18/apple-plans-to-run-most-of-its-compute-management-on-kubernetes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "microsoft",
+    "nom": "Microsoft",
+    "pays": "États-Unis",
+    "secteur": "Logiciel et cloud",
+    "fondation": 1975,
+    "capitalisation": 0,
+    "chiffreAffaires": 331.8,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Redmond",
+      "lat": 47.674,
+      "lng": -122.1215
+    },
+    "description": "Microsoft édite des logiciels pour les entreprises et le grand public, et loue de la puissance informatique avec son cloud Azure.",
+    "pointsCles": [
+      "Microsoft 365 et LinkedIn forment sa plus grande activité.",
+      "Azure et les serveurs pèsent presque autant.",
+      "Windows et Xbox ne représentent plus qu'une part minoritaire."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Satya Nadella",
+        "titre": "PDG",
+        "depuis": 2014,
+        "photo": "/ceos/nadella.jpg",
+        "credit": {
+          "auteur": "Brian Smale",
+          "licence": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Satya_Nadella_(cropped).jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "juin 2026",
+      "source": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526323660/msft-20260630.htm",
+      "segments": [
+        {
+          "nom": "Productivité (Microsoft 365, LinkedIn)",
+          "part": 42.2
+        },
+        {
+          "nom": "Cloud (Azure, serveurs)",
+          "part": 41.5
+        },
+        {
+          "nom": "Particuliers (Windows, Xbox)",
+          "part": 16.3
+        }
+      ]
+    },
+    "categorie": "Logiciels et cloud",
+    "vedette": true,
+    "logo": "/logos/microsoft.png",
+    "services": [
+      "Hébergement cloud (Azure)",
+      "Abonnements Microsoft 365",
+      "Xbox Game Pass",
+      "Réseau professionnel LinkedIn"
+    ],
+    "logiciels": {
+      "crees": [
+        "Windows",
+        "Microsoft 365",
+        "Teams",
+        "Azure",
+        "VS Code"
+      ],
+      "utilises": [
+        {
+          "nom": "Claude Code",
+          "source": "https://windowsreport.com/microsoft-quietly-adopts-claude-code-while-marketing-github-copilot/"
+        }
+      ],
+      "noteUtilises": "Adopté début 2026, puis réduit selon la presse : des licences internes devaient être annulées en juin 2026."
+    }
+  },
+  {
+    "id": "asml",
+    "nom": "ASML",
+    "pays": "Pays-Bas",
+    "secteur": "Semi-conducteurs",
+    "fondation": 1984,
+    "capitalisation": 0,
+    "chiffreAffaires": 32.7,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Veldhoven",
+      "lat": 51.4086,
+      "lng": 5.415
+    },
+    "devise": "€",
+    "description": "ASML fabrique les machines de lithographie qui servent à graver les motifs des puces électroniques.",
+    "pointsCles": [
+      "Ses clients sont les fabricants de puces, dont TSMC et Intel.",
+      "Ses machines EUV gravent les motifs les plus fins.",
+      "La maintenance de son parc installé rapporte environ un quart de ses revenus."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Christophe Fouquet",
+        "titre": "PDG",
+        "depuis": 2024,
+        "photo": "/ceos/fouquet.jpg",
+        "credit": {
+          "auteur": "Dati Bendo / Union européenne",
+          "licence": "CC BY 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Ursula_von_der_Leyen_%26_Christophe_Fouquet_-_2025.jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://investor.asml.com/news-releases/news-release-details/q4-2025-financial-results",
+      "segments": [
+        {
+          "nom": "Machines DUV",
+          "part": 36.7
+        },
+        {
+          "nom": "Machines EUV",
+          "part": 35.5
+        },
+        {
+          "nom": "Maintenance et mises à niveau",
+          "part": 25.1
+        },
+        {
+          "nom": "Autres systèmes",
+          "part": 2.7
+        }
+      ],
+      "note": "La part « Autres systèmes » est calculée par différence."
+    },
+    "categorie": "Puces",
+    "logo": "/logos/asml.png",
+    "services": [
+      "Maintenance des machines",
+      "Mises à niveau du parc installé",
+      "Formation des techniciens"
+    ],
+    "logiciels": {
+      "crees": [
+        "Tachyon (lithographie numérique)"
+      ],
+      "noteCrees": "ASML vend surtout des machines : ses logiciels s'adressent aux fabricants de puces.",
+      "utilises": [
+        {
+          "nom": "Siemens Teamcenter",
+          "source": "https://events.sw.siemens.com/en-US/realizelive/europe/software-products-europe/teamcenter-plm-conference-europe/"
+        },
+        {
+          "nom": "Modèles de Mistral AI",
+          "source": "https://mistral.ai/news/ai-now-summit-2026/"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsmc",
+    "nom": "TSMC",
+    "pays": "Taïwan",
+    "secteur": "Semi-conducteurs",
+    "fondation": 1987,
+    "capitalisation": 0,
+    "chiffreAffaires": 122.4,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Hsinchu",
+      "lat": 24.7736,
+      "lng": 121.0122
+    },
+    "description": "TSMC fabrique des puces pour le compte d'autres entreprises, sans les vendre sous sa propre marque.",
+    "pointsCles": [
+      "Ses clients conçoivent les puces, TSMC les produit.",
+      "Le calcul haute performance, porté par l'IA, dépasse la moitié de ses revenus.",
+      "Elle a été la première fonderie à produire en volume en 7 nm."
+    ],
+    "dirigeants": [
+      {
+        "nom": "C.C. Wei",
+        "titre": "Président et PDG",
+        "depuis": 2018,
+        "photo": "/ceos/wei.jpg",
+        "credit": {
+          "auteur": "Maison-Blanche",
+          "licence": "Domaine public",
+          "url": "https://commons.wikimedia.org/wiki/File:TSMC_CC_Wei_and_Trump_2025.png"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://investor.tsmc.com/sites/ir/sec-filings/2025_20F%20Report.pdf",
+      "segments": [
+        {
+          "nom": "Calcul haute performance",
+          "part": 58
+        },
+        {
+          "nom": "Smartphones",
+          "part": 29
+        },
+        {
+          "nom": "Objets connectés",
+          "part": 5
+        },
+        {
+          "nom": "Automobile",
+          "part": 5
+        },
+        {
+          "nom": "Électronique grand public",
+          "part": 1
+        },
+        {
+          "nom": "Autres",
+          "part": 2
+        }
+      ],
+      "note": "La part « Autres » est déduite des parts publiées."
+    },
+    "categorie": "Puces",
+    "logo": "/logos/tsmc.png",
+    "services": [
+      "Fabrication de puces pour d'autres entreprises",
+      "Assemblage avancé des puces",
+      "Aide à la conception de puces"
+    ],
+    "logiciels": {
+      "crees": [],
+      "noteCrees": "TSMC vend de la fabrication de puces et ne commercialise aucun logiciel connu du grand public.",
+      "utilises": [
+        {
+          "nom": "Cadence",
+          "source": "https://www.tsmc.com/english/dedicatedFoundry/oip/eda_alliance"
+        },
+        {
+          "nom": "Synopsys",
+          "source": "https://www.tsmc.com/english/dedicatedFoundry/oip/eda_alliance"
+        },
+        {
+          "nom": "Siemens EDA",
+          "source": "https://www.tsmc.com/english/dedicatedFoundry/oip/eda_alliance"
+        }
+      ],
+      "noteUtilises": "Ces outils de conception sont certifiés par TSMC pour ses procédés. Ses logiciels internes ne sont pas publics."
+    }
+  },
+  {
+    "id": "datadog",
+    "nom": "Datadog",
+    "pays": "États-Unis",
+    "secteur": "Logiciel et cloud",
+    "fondation": 2010,
+    "capitalisation": 0,
+    "chiffreAffaires": 3.43,
+    "effectifs": 0,
+    "siege": {
+      "ville": "New York",
+      "lat": 40.7561,
+      "lng": -73.9903
+    },
+    "description": "Datadog édite une plateforme qui surveille le bon fonctionnement des applications et des infrastructures cloud.",
+    "pointsCles": [
+      "Elle réunit métriques, suivi des applications et journaux au même endroit.",
+      "La quasi-totalité de ses revenus vient d'abonnements.",
+      "Elle propose plus de 20 produits."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Olivier Pomel",
+        "titre": "Cofondateur et PDG",
+        "depuis": 2010
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1561550/000162828026008819/ddog-20251231.htm",
+      "segments": [],
+      "note": "Datadog ne publie pas la répartition de son chiffre d'affaires par produit : presque tout provient d'abonnements à sa plateforme."
+    },
+    "categorie": "Logiciels et cloud",
+    "logo": "/logos/datadog.png",
+    "services": [
+      "Supervision des infrastructures",
+      "Suivi des performances des applications",
+      "Gestion des journaux",
+      "Sécurité du cloud"
+    ],
+    "logiciels": {
+      "crees": [
+        "Datadog Agent",
+        "APM",
+        "Log Management"
+      ],
+      "utilises": [
+        {
+          "nom": "Kubernetes",
+          "source": "https://datadogon.datadoghq.com/episodes/datadog-on-kubernetes"
+        },
+        {
+          "nom": "Apache Kafka",
+          "source": "https://datadogon.datadoghq.com/talks/datadog-on-kafka"
+        },
+        {
+          "nom": "Apache Spark",
+          "source": "https://datadogon.datadoghq.com/episodes/datadog-on-spark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "google",
+    "nom": "Google",
+    "pays": "États-Unis",
+    "secteur": "Internet et cloud",
+    "fondation": 1998,
+    "capitalisation": 0,
+    "chiffreAffaires": 402.8,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Mountain View",
+      "lat": 37.422,
+      "lng": -122.0841
+    },
+    "description": "Google, filiale d'Alphabet, vit surtout de la publicité affichée sur son moteur de recherche et sur YouTube.",
+    "pointsCles": [
+      "La recherche génère plus de la moitié des revenus du groupe.",
+      "Son cloud est devenu sa deuxième activité.",
+      "Android et YouTube complètent son offre grand public."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Sundar Pichai",
+        "titre": "PDG d'Alphabet et de Google",
+        "depuis": 2015,
+        "photo": "/ceos/pichai.jpg",
+        "credit": {
+          "auteur": "Lukasz Kobus / Commission européenne",
+          "licence": "CC BY 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000012/googexhibit991q42025.htm",
+      "segments": [
+        {
+          "nom": "Recherche",
+          "part": 55.7
+        },
+        {
+          "nom": "Google Cloud",
+          "part": 14.6
+        },
+        {
+          "nom": "Abonnements et appareils",
+          "part": 11.9
+        },
+        {
+          "nom": "Publicité YouTube",
+          "part": 10
+        },
+        {
+          "nom": "Réseau publicitaire",
+          "part": 7.4
+        },
+        {
+          "nom": "Autres projets (Waymo, etc.)",
+          "part": 0.4
+        }
+      ],
+      "note": "Chiffres du groupe Alphabet. Le détail des activités de Google Services provient d'un agrégateur, recoupé avec le total officiel."
+    },
+    "categorie": "Internet",
+    "vedette": true,
+    "logo": "/logos/google.png",
+    "services": [
+      "Moteur de recherche",
+      "Publicité en ligne (Google Ads)",
+      "Hébergement cloud (Google Cloud)",
+      "Google Workspace",
+      "YouTube Premium"
+    ],
+    "logiciels": {
+      "crees": [
+        "Google Search",
+        "Chrome",
+        "Android",
+        "Gmail",
+        "YouTube",
+        "Kubernetes",
+        "Gemini"
+      ],
+      "utilises": [
+        {
+          "nom": "Debian",
+          "source": "https://www.itpro.com/software/30308/google-moves-internal-systems-from-ubuntu-to-debian"
+        }
+      ],
+      "noteUtilises": "Debian sert de base à gLinux, le système de ses postes de travail."
+    }
+  },
+  {
+    "id": "alphabet",
+    "nom": "Alphabet",
+    "pays": "États-Unis",
+    "secteur": "Internet et cloud",
+    "fondation": 2015,
+    "capitalisation": 0,
+    "chiffreAffaires": 402.8,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Mountain View",
+      "lat": 37.431,
+      "lng": -122.0841
+    },
+    "logo": "/logos/alphabet.png",
+    "description": "Alphabet est la maison mère de Google et d'autres sociétés, comme Waymo et ses robotaxis.",
+    "pointsCles": [
+      "Elle a été créée en 2015 pour séparer Google de ses projets plus risqués.",
+      "Les services de Google génèrent environ 85 % de ses revenus.",
+      "Google Cloud est sa deuxième source de revenus."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Sundar Pichai",
+        "titre": "PDG d'Alphabet et de Google",
+        "depuis": 2019,
+        "photo": "/ceos/pichai.jpg",
+        "credit": {
+          "auteur": "Lukasz Kobus / Commission européenne",
+          "licence": "CC BY 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://app.edgar.tools/companies/GOOGL/disclosures/segments",
+      "segments": [
+        {
+          "nom": "Services de Google",
+          "part": 85.1
+        },
+        {
+          "nom": "Google Cloud",
+          "part": 14.6
+        },
+        {
+          "nom": "Autres projets (Waymo, etc.)",
+          "part": 0.4
+        }
+      ]
+    },
+    "services": [
+      "Services de Google (recherche, publicité, cloud)",
+      "Robotaxis (Waymo)",
+      "Livraison par drone (Wing)",
+      "Recherche de médicaments par IA (Isomorphic Labs)"
+    ],
+    "logiciels": {
+      "crees": [
+        "Waymo Driver"
+      ],
+      "noteCrees": "Les logiciels grand public du groupe, comme Chrome ou Android, sont développés par Google.",
+      "utilises": []
+    },
+    "categorie": "Internet",
+    "vedette": true
+  },
+  {
+    "id": "qualcomm",
+    "nom": "Qualcomm",
+    "pays": "États-Unis",
+    "secteur": "Semi-conducteurs",
+    "fondation": 1985,
+    "capitalisation": 0,
+    "chiffreAffaires": 43.1,
+    "effectifs": 0,
+    "siege": {
+      "ville": "San Diego",
+      "lat": 32.896,
+      "lng": -117.195
+    },
+    "description": "Qualcomm conçoit les puces Snapdragon et vend des licences sur ses brevets de communication sans fil.",
+    "pointsCles": [
+      "Les puces pour smartphones restent sa première source de revenus.",
+      "L'automobile est en forte croissance, avec +52 % sur l'exercice.",
+      "Ses licences de brevets rapportent environ 13 % de ses revenus."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Cristiano Amon",
+        "titre": "PDG",
+        "depuis": 2021,
+        "photo": "/ceos/amon.jpg",
+        "credit": {
+          "auteur": "Web Summit",
+          "licence": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Cristiano_Amon_Web_Summit_2024_(cropped).jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "septembre 2026",
+      "source": "https://s204.q4cdn.com/645488518/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf",
+      "segments": [
+        {
+          "nom": "Puces pour smartphones",
+          "part": 55.8
+        },
+        {
+          "nom": "Objets connectés",
+          "part": 16.5
+        },
+        {
+          "nom": "Automobile",
+          "part": 13.9
+        },
+        {
+          "nom": "Licences de brevets",
+          "part": 12.9
+        },
+        {
+          "nom": "Autres",
+          "part": 0.8
+        }
+      ]
+    },
+    "categorie": "Puces",
+    "logo": "/logos/qualcomm.png",
+    "services": [
+      "Licences de brevets sans fil",
+      "Plateformes pour l'automobile",
+      "Outils d'IA pour les développeurs"
+    ],
+    "logiciels": {
+      "crees": [
+        "Qualcomm AI Hub",
+        "Eudora (messagerie historique)"
+      ],
+      "utilises": []
+    }
+  },
+  {
+    "id": "broadcom",
+    "nom": "Broadcom",
+    "pays": "États-Unis",
+    "secteur": "Semi-conducteurs",
+    "fondation": 1991,
+    "capitalisation": 0,
+    "chiffreAffaires": 63.9,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Palo Alto",
+      "lat": 37.41,
+      "lng": -122.148
+    },
+    "description": "Broadcom vend des puces pour les réseaux et les centres de données, ainsi que des logiciels d'infrastructure.",
+    "pointsCles": [
+      "Ses puces servent notamment aux réseaux et à l'IA.",
+      "Elle a bâti sa branche logicielle par acquisitions, dont VMware.",
+      "Le logiciel représente plus de 40 % de ses revenus."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Hock Tan",
+        "titre": "PDG",
+        "depuis": 2006,
+        "photo": "/ceos/tan.jpg",
+        "credit": {
+          "auteur": "Greg Bezat",
+          "licence": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Hock_Tan_2022.png"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "novembre 2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+      "segments": [
+        {
+          "nom": "Semi-conducteurs",
+          "part": 57.7
+        },
+        {
+          "nom": "Logiciels d'infrastructure",
+          "part": 42.3
+        }
+      ]
+    },
+    "categorie": "Puces",
+    "logo": "/logos/broadcom.png",
+    "services": [
+      "Conception de puces sur mesure",
+      "Cloud privé d'entreprise (VMware)",
+      "Cybersécurité d'entreprise (Symantec)"
+    ],
+    "logiciels": {
+      "crees": [
+        "VMware vSphere",
+        "Symantec Endpoint Security"
+      ],
+      "noteCrees": "Ces logiciels viennent de ses acquisitions.",
+      "utilises": []
+    }
+  },
+  {
+    "id": "oracle",
+    "nom": "Oracle",
+    "pays": "États-Unis",
+    "secteur": "Logiciel et cloud",
+    "fondation": 1977,
+    "capitalisation": 0,
+    "chiffreAffaires": 67.4,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Austin",
+      "lat": 30.2424,
+      "lng": -97.7225
+    },
+    "description": "Oracle édite des bases de données et des logiciels d'entreprise, et loue de la puissance de calcul dans le cloud.",
+    "pointsCles": [
+      "Le cloud représente désormais la moitié de ses revenus.",
+      "Ses logiciels historiques pèsent encore plus d'un tiers du total.",
+      "Deux co-PDG la dirigent depuis 2025, l'un issu du cloud, l'autre des applications."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Clay Magouyrk",
+        "titre": "Co-PDG",
+        "depuis": 2025
+      },
+      {
+        "nom": "Mike Sicilia",
+        "titre": "Co-PDG",
+        "depuis": 2025
+      }
+    ],
+    "activites": {
+      "exercice": "mai 2026",
+      "source": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Record-Q4-and-FY-2026-Results-Driven-by-Cloud-Infrastructure--Cloud-Applications/default.aspx",
+      "segments": [
+        {
+          "nom": "Cloud",
+          "part": 50.5
+        },
+        {
+          "nom": "Logiciels",
+          "part": 36.4
+        },
+        {
+          "nom": "Services",
+          "part": 8.5
+        },
+        {
+          "nom": "Matériel",
+          "part": 4.6
+        }
+      ]
+    },
+    "categorie": "Logiciels et cloud",
+    "vedette": true,
+    "logo": "/logos/oracle.png",
+    "services": [
+      "Hébergement cloud (Oracle Cloud)",
+      "Applications de gestion en ligne",
+      "Support des logiciels",
+      "Logiciels de santé (Oracle Health)"
+    ],
+    "logiciels": {
+      "crees": [
+        "Oracle Database",
+        "MySQL",
+        "Java",
+        "Oracle Linux",
+        "NetSuite"
+      ],
+      "noteCrees": "MySQL, Java et NetSuite viennent d'acquisitions.",
+      "utilises": [
+        {
+          "nom": "Kubernetes",
+          "source": "https://www.infoq.com/news/2017/09/oracle-joins-cncf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "openai",
+    "nom": "OpenAI",
+    "pays": "États-Unis",
+    "secteur": "Intelligence artificielle",
+    "categorie": "IA",
+    "vedette": true,
+    "fondation": 2015,
+    "capitalisation": 0,
+    "chiffreAffaires": 0,
+    "effectifs": 0,
+    "siege": {
+      "ville": "San Francisco",
+      "lat": 37.7627,
+      "lng": -122.4147
+    },
+    "description": "OpenAI développe des modèles d'intelligence artificielle, accessibles notamment avec ChatGPT.",
+    "pointsCles": [
+      "ChatGPT a popularisé l'IA générative auprès du grand public.",
+      "Les abonnements à ChatGPT sont sa première source de revenus.",
+      "Elle achète sa puissance de calcul auprès de plusieurs partenaires, dont Microsoft et Oracle."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Sam Altman",
+        "titre": "Cofondateur et PDG",
+        "depuis": 2019,
+        "photo": "/ceos/altman.jpg",
+        "credit": {
+          "auteur": "TechCrunch",
+          "licence": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Sam_Altman_CropEdit_James_Tamim.jpg"
+        }
+      }
+    ],
+    "activites": {
+      "source": "https://www.itpro.com/business/business-strategy/openai-cfo-teases-new-money-making-plans-as-ai-giant-targets-practical-adoption-gains-in-2026-and-beyond",
+      "segments": [],
+      "note": "OpenAI n'est pas cotée et ne publie pas ses comptes. Sa direction financière a annoncé plus de 20 Md$ de revenus en 2025."
+    },
+    "logo": "/logos/openai.png",
+    "services": [
+      "Abonnements à ChatGPT",
+      "Accès à ses modèles pour les développeurs (API)",
+      "Offres pour les entreprises"
+    ],
+    "logiciels": {
+      "crees": [
+        "ChatGPT",
+        "Codex",
+        "Modèles GPT",
+        "Whisper"
+      ],
+      "utilises": [
+        {
+          "nom": "Kubernetes",
+          "source": "https://openai.com/index/scaling-kubernetes-to-7500-nodes/"
+        },
+        {
+          "nom": "Prometheus",
+          "source": "https://www.centron.de/en/openai-scaling-kubernetes-to-7500-nodes"
+        },
+        {
+          "nom": "Grafana",
+          "source": "https://www.centron.de/en/openai-scaling-kubernetes-to-7500-nodes"
+        }
+      ],
+      "noteUtilises": "D'après des informations de 2021."
+    }
+  },
+  {
+    "id": "meta",
+    "nom": "Meta",
+    "pays": "États-Unis",
+    "secteur": "Réseaux sociaux",
+    "categorie": "Internet",
+    "vedette": true,
+    "fondation": 2004,
+    "capitalisation": 0,
+    "chiffreAffaires": 201,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Menlo Park",
+      "lat": 37.4848,
+      "lng": -122.1484
+    },
+    "description": "Meta édite Facebook, Instagram et WhatsApp, et vit presque entièrement de la publicité.",
+    "pointsCles": [
+      "Ses applications touchent 3,58 milliards de personnes par jour.",
+      "Les applications génèrent presque tous ses revenus.",
+      "Reality Labs, sa branche de réalité virtuelle, a perdu 19 Md$ en 2025."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Mark Zuckerberg",
+        "titre": "Fondateur et PDG",
+        "depuis": 2004,
+        "photo": "/ceos/zuckerberg.jpg",
+        "credit": {
+          "auteur": "Anthony Quintano",
+          "licence": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_2019_(cropped).jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "segments": [
+        {
+          "nom": "Applications (Facebook, Instagram, WhatsApp)",
+          "part": 98.9
+        },
+        {
+          "nom": "Reality Labs",
+          "part": 1.1
+        }
+      ]
+    },
+    "logo": "/logos/meta.png",
+    "services": [
+      "Réseaux sociaux et messagerie",
+      "Publicité ciblée",
+      "WhatsApp Business",
+      "Abonnement Meta Verified"
+    ],
+    "logiciels": {
+      "crees": [
+        "Facebook",
+        "Instagram",
+        "WhatsApp",
+        "Threads",
+        "React",
+        "PyTorch",
+        "Llama"
+      ],
+      "noteCrees": "Instagram et WhatsApp viennent d'acquisitions.",
+      "utilises": [
+        {
+          "nom": "GPT-4 d'OpenAI",
+          "source": "https://www.fortune.com/2024/12/03/meta-openai-gpt-4-llama-coding-tool"
+        }
+      ],
+      "noteUtilises": "Intégré en 2024 à Metamate, son outil interne de développement."
+    }
+  },
+  {
+    "id": "bytedance",
+    "nom": "ByteDance",
+    "pays": "Chine",
+    "secteur": "Internet et IA",
+    "categorie": "Internet",
+    "vedette": true,
+    "fondation": 2012,
+    "capitalisation": 0,
+    "chiffreAffaires": 0,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Pékin",
+      "lat": 39.9834,
+      "lng": 116.3163
+    },
+    "description": "ByteDance édite TikTok et Doubao, l'application d'IA la plus utilisée en Chine.",
+    "pointsCles": [
+      "Doubao comptait 419 millions d'utilisateurs mensuels en septembre 2026.",
+      "TikTok et Douyin ont fait sa notoriété mondiale.",
+      "Elle a été le premier acheteur chinois de puces Nvidia en 2025, selon la presse."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Liang Rubo",
+        "titre": "Cofondateur et PDG",
+        "depuis": 2021
+      }
+    ],
+    "activites": {
+      "source": "https://fortune.com/article/china-bytedance-tiktok-united-states-government-donald-trump-social-media",
+      "segments": [],
+      "note": "ByteDance n'est pas cotée et ne publie pas ses comptes. La presse estime ses revenus à environ 155 Md$."
+    },
+    "logo": "/logos/bytedance.png",
+    "services": [
+      "Réseau social TikTok",
+      "Vente en ligne (TikTok Shop)",
+      "Publicité en ligne",
+      "Cloud pour les entreprises (BytePlus)"
+    ],
+    "logiciels": {
+      "crees": [
+        "TikTok",
+        "Douyin",
+        "Doubao",
+        "CapCut",
+        "Lark"
+      ],
+      "utilises": [
+        {
+          "nom": "Go",
+          "source": "https://www.cloudwego.io/about/"
+        }
+      ],
+      "noteUtilises": "Go est son principal langage de développement."
+    }
+  },
+  {
+    "id": "salesforce",
+    "nom": "Salesforce",
+    "pays": "États-Unis",
+    "secteur": "Logiciel et cloud",
+    "categorie": "Logiciels et cloud",
+    "vedette": true,
+    "fondation": 1999,
+    "capitalisation": 0,
+    "chiffreAffaires": 41.5,
+    "effectifs": 0,
+    "siege": {
+      "ville": "San Francisco",
+      "lat": 37.7897,
+      "lng": -122.3966
+    },
+    "description": "Salesforce édite des logiciels de gestion de la relation client, vendus par abonnement.",
+    "pointsCles": [
+      "Ses logiciels aident les entreprises à gérer leurs ventes et leur service client.",
+      "Elle s'est élargie par acquisitions, avec MuleSoft, Tableau et Slack.",
+      "Agentforce, son offre d'agents d'IA, est aujourd'hui sa priorité."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Marc Benioff",
+        "titre": "Cofondateur et PDG",
+        "depuis": 2001,
+        "photo": "/ceos/benioff.jpg",
+        "credit": {
+          "auteur": "Salesforce",
+          "licence": "CC BY-SA 2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Marc_Benioff.jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "janvier 2026",
+      "source": "https://www.quantisnow.com/insight/salesforce-delivers-record-fourth-quarter-fiscal-2026-results-6412998",
+      "segments": [
+        {
+          "nom": "Service client",
+          "part": 23.6
+        },
+        {
+          "nom": "Ventes",
+          "part": 21.7
+        },
+        {
+          "nom": "Plateforme et Slack",
+          "part": 21.4
+        },
+        {
+          "nom": "Intégration et analyse",
+          "part": 15
+        },
+        {
+          "nom": "Marketing et commerce",
+          "part": 13.1
+        },
+        {
+          "nom": "Services professionnels",
+          "part": 5.1
+        }
+      ],
+      "note": "Répartition issue d'une analyse tierce, les services professionnels étant calculés par différence."
+    },
+    "logo": "/logos/salesforce.png",
+    "services": [
+      "Gestion de la relation client en ligne",
+      "Agents d'IA pour les entreprises",
+      "Conseil et mise en œuvre",
+      "Formation (Trailhead)"
+    ],
+    "logiciels": {
+      "crees": [
+        "Sales Cloud",
+        "Service Cloud",
+        "Agentforce",
+        "Slack",
+        "Tableau",
+        "MuleSoft"
+      ],
+      "noteCrees": "Slack, Tableau et MuleSoft viennent d'acquisitions.",
+      "utilises": [
+        {
+          "nom": "Claude Code",
+          "source": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership"
+        },
+        {
+          "nom": "Amazon Bedrock",
+          "source": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership"
+        }
+      ]
+    }
+  },
+  {
+    "id": "anthropic",
+    "nom": "Anthropic",
+    "pays": "États-Unis",
+    "secteur": "Intelligence artificielle",
+    "categorie": "IA",
+    "fondation": 2021,
+    "capitalisation": 0,
+    "chiffreAffaires": 0,
+    "effectifs": 0,
+    "siege": {
+      "ville": "San Francisco",
+      "lat": 37.7897,
+      "lng": -122.4005
+    },
+    "description": "Anthropic développe Claude, une famille de modèles d'IA surtout utilisée par les entreprises.",
+    "pointsCles": [
+      "Elle a été fondée par d'anciens chercheurs d'OpenAI, dont Dario et Daniela Amodei.",
+      "Claude Code, son outil pour développeurs, a fortement contribué à sa croissance.",
+      "Ses modèles tournent sur des puces d'Amazon, de Google et de Nvidia."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Dario Amodei",
+        "titre": "Cofondateur et PDG",
+        "depuis": 2021,
+        "photo": "/ceos/amodei.jpg",
+        "credit": {
+          "auteur": "UK Prime Minister",
+          "licence": "CC BY 2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg"
+        }
+      }
+    ],
+    "activites": {
+      "source": "https://officechai.com/ai/anthropic-says-its-revenue-run-rate-has-now-touched-47-billion/",
+      "segments": [],
+      "note": "Anthropic n'est pas cotée et ne publie pas ses comptes. Elle a annoncé 47 Md$ de revenus annualisés en juin 2026, un chiffre non audité."
+    },
+    "logo": "/logos/anthropic.png",
+    "services": [
+      "Abonnements à Claude",
+      "Accès à ses modèles pour les développeurs (API)",
+      "Offres pour les entreprises"
+    ],
+    "logiciels": {
+      "crees": [
+        "Claude",
+        "Claude Code",
+        "Model Context Protocol"
+      ],
+      "utilises": [
+        {
+          "nom": "Amazon Web Services",
+          "source": "https://www.constellationr.com/insights/news/aws-fires-project-rainier-trainium2-cluster-anthropic"
+        },
+        {
+          "nom": "Google Cloud",
+          "source": "https://aimagazine.com/news/why-anthropic-uses-google-cloud-tpus-for-ai-infrastructure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mistral",
+    "nom": "Mistral AI",
+    "pays": "France",
+    "secteur": "Intelligence artificielle",
+    "categorie": "IA",
+    "fondation": 2023,
+    "capitalisation": 0,
+    "chiffreAffaires": 0,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Paris",
+      "lat": 48.8686,
+      "lng": 2.3378
+    },
+    "description": "Mistral AI est une entreprise française qui développe des modèles d'IA et l'assistant Le Chat.",
+    "pointsCles": [
+      "Elle a été fondée par d'anciens chercheurs de Google DeepMind et de Meta.",
+      "ASML est entrée à son capital en 2025 en investissant 1,3 milliard d'euros.",
+      "Elle publie une partie de ses modèles en accès ouvert."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Arthur Mensch",
+        "titre": "Cofondateur et PDG",
+        "depuis": 2023,
+        "photo": "/ceos/mensch.jpg",
+        "credit": {
+          "auteur": "Slush",
+          "licence": "CC BY 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Arthur_Mensch.jpg"
+        }
+      }
+    ],
+    "activites": {
+      "source": "https://siecledigital.fr/2026/01/22/mistral-ai-vise-le-milliard-de-dollars-de-revenus-des-2026/",
+      "segments": [],
+      "note": "Mistral AI n'est pas cotée et ne publie pas ses comptes. Son PDG visait un milliard de revenus fin 2026."
+    },
+    "logo": "/logos/mistral.png",
+    "services": [
+      "Abonnements au Chat",
+      "Accès à ses modèles pour les développeurs (API)",
+      "Déploiement de l'IA en entreprise",
+      "Puissance de calcul (Mistral Compute)"
+    ],
+    "logiciels": {
+      "crees": [
+        "Le Chat",
+        "Mistral Large",
+        "Mistral 7B",
+        "Codestral"
+      ],
+      "utilises": [
+        {
+          "nom": "Kubernetes",
+          "source": "https://enix.io/en/clients/usecases/mistralai/"
+        },
+        {
+          "nom": "Azure AKS",
+          "source": "https://enix.io/en/clients/usecases/mistralai/"
+        },
+        {
+          "nom": "Google GKE",
+          "source": "https://enix.io/en/clients/usecases/mistralai/"
+        },
+        {
+          "nom": "Terraform",
+          "source": "https://enix.io/en/clients/usecases/mistralai/"
+        },
+        {
+          "nom": "Slurm",
+          "source": "https://www.datacenterdynamics.com/en/news/mistral-ai-trained-latest-model-25x-faster-using-nvidia-gb200-nvl72-says-coreweave/"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hubspot",
+    "nom": "HubSpot",
+    "pays": "États-Unis",
+    "secteur": "Logiciel et cloud",
+    "categorie": "Logiciels et cloud",
+    "fondation": 2006,
+    "capitalisation": 0,
+    "chiffreAffaires": 3.13,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Cambridge",
+      "lat": 42.3668,
+      "lng": -71.079
+    },
+    "description": "HubSpot édite une plateforme de gestion de la relation client pour le marketing, les ventes et le service.",
+    "pointsCles": [
+      "Elle comptait 288 706 clients fin 2025.",
+      "Elle s'adresse surtout aux petites et moyennes entreprises.",
+      "Presque tous ses revenus viennent d'abonnements."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Yamini Rangan",
+        "titre": "PDG",
+        "depuis": 2021,
+        "photo": "/ceos/rangan.jpg",
+        "credit": {
+          "auteur": "Rsruti",
+          "licence": "CC0",
+          "url": "https://commons.wikimedia.org/wiki/File:Roopali_Rajvanshy,_Rcoz_Founder,_Yamini_Rangan,_Hubspot_CEO_%26_Kamini_Ramani,_CMO,_Mayfield_Fund,_Palo_Alto,_CA.jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://www.businesswire.com/news/home/20260211469584/en/HubSpot-Reports-Strong-Q4-and-Full-Year-2025-Results",
+      "segments": [
+        {
+          "nom": "Abonnements",
+          "part": 97.9
+        },
+        {
+          "nom": "Services et autres",
+          "part": 2.1
+        }
+      ]
+    },
+    "logo": "/logos/hubspot.png",
+    "services": [
+      "Gestion de la relation client",
+      "Automatisation du marketing",
+      "Support client",
+      "Paiements en ligne",
+      "Formation (HubSpot Academy)"
+    ],
+    "logiciels": {
+      "crees": [
+        "HubSpot CRM",
+        "Marketing Hub",
+        "Sales Hub",
+        "Breeze"
+      ],
+      "utilises": []
+    }
+  },
+  {
+    "id": "sap",
+    "nom": "SAP",
+    "pays": "Allemagne",
+    "secteur": "Logiciel et cloud",
+    "fondation": 1972,
+    "capitalisation": 0,
+    "chiffreAffaires": 36.8,
+    "devise": "€",
+    "effectifs": 0,
+    "siege": {
+      "ville": "Walldorf",
+      "lat": 49.2933,
+      "lng": 8.6417
+    },
+    "logo": "/logos/sap.png",
+    "description": "SAP édite des logiciels qui aident les grandes entreprises à gérer leur finance, leurs achats et leurs ressources humaines.",
+    "pointsCles": [
+      "Son logiciel de gestion S/4HANA est au cœur de son offre.",
+      "Le cloud représente désormais plus de la moitié de ses revenus.",
+      "Ses contrats cloud déjà signés atteignaient 77 milliards d'euros fin 2025."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Christian Klein",
+        "titre": "PDG",
+        "depuis": 2020,
+        "photo": "/ceos/klein.jpg",
+        "credit": {
+          "auteur": "Norbert Steinhauser / SAP SE",
+          "licence": "CC BY-SA 4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Christian_Klein_2025.jpg"
+        }
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://www.nasdaq.com/press-release/sap-quarterly-statement-q4-2025-2026-01-29",
+      "segments": [
+        {
+          "nom": "Cloud",
+          "part": 57.1
+        },
+        {
+          "nom": "Licences et support logiciel",
+          "part": 31.3
+        },
+        {
+          "nom": "Services",
+          "part": 11.6
+        }
+      ],
+      "note": "La part « Licences et support logiciel » est calculée par différence."
+    },
+    "services": [
+      "Logiciels de gestion en ligne (RISE with SAP)",
+      "Support et maintenance",
+      "Conseil et mise en œuvre",
+      "Formation (SAP Learning)"
+    ],
+    "logiciels": {
+      "crees": [
+        "SAP S/4HANA",
+        "SAP HANA",
+        "SuccessFactors",
+        "Ariba",
+        "Concur",
+        "Joule",
+        "Gardener"
+      ],
+      "noteCrees": "SuccessFactors, Ariba et Concur viennent d'acquisitions.",
+      "utilises": [
+        {
+          "nom": "Kubernetes",
+          "source": "https://jobs.sap.com/job/Bangalore-Senior-Developer-Developer-Kubernetes-Core-Team-Gardener-560066/1286665901"
+        },
+        {
+          "nom": "GitHub",
+          "source": "https://jobs.sap.com/job/Bangalore-Senior-Developer-Developer-Kubernetes-Core-Team-Gardener-560066/1286665901"
+        },
+        {
+          "nom": "Prometheus",
+          "source": "https://jobs.sap.com/job/Bangalore-Senior-Developer-Developer-Kubernetes-Core-Team-Gardener-560066/1286665901"
+        },
+        {
+          "nom": "Grafana",
+          "source": "https://jobs.sap.com/job/Bangalore-Senior-Developer-Developer-Kubernetes-Core-Team-Gardener-560066/1286665901"
+        }
+      ],
+      "noteUtilises": "D'après ses offres d'emploi pour l'équipe Gardener."
+    },
+    "categorie": "Logiciels et cloud"
+  },
+  {
+    "id": "samsung",
+    "nom": "Samsung",
+    "pays": "Corée du Sud",
+    "secteur": "Électronique et semi-conducteurs",
+    "categorie": "Matériel",
+    "fondation": 1969,
+    "capitalisation": 0,
+    "chiffreAffaires": 233,
+    "effectifs": 0,
+    "siege": {
+      "ville": "Suwon",
+      "lat": 37.258,
+      "lng": 127.054
+    },
+    "logo": "/logos/samsung.png",
+    "description": "Samsung Electronics fabrique des smartphones Galaxy, des téléviseurs et des puces, notamment de la mémoire.",
+    "pointsCles": [
+      "Ses appareils, dont les Galaxy, génèrent environ la moitié de ses ventes.",
+      "La mémoire représente environ 80 % des revenus de sa division de puces.",
+      "Elle fabrique aussi des puces pour d'autres entreprises, dont Nvidia et Tesla."
+    ],
+    "dirigeants": [
+      {
+        "nom": "Jun Young-hyun",
+        "titre": "Co-PDG, chargé des puces",
+        "depuis": 2025
+      },
+      {
+        "nom": "Roh Tae-moon",
+        "titre": "Co-PDG, chargé des appareils",
+        "depuis": 2025
+      }
+    ],
+    "activites": {
+      "exercice": "décembre 2025",
+      "source": "https://stockanalysis.com/quote/krx/005930/financials/metrics/",
+      "segments": [
+        {
+          "nom": "Appareils (Galaxy, téléviseurs, électroménager)",
+          "part": 51.7
+        },
+        {
+          "nom": "Puces",
+          "part": 35.8
+        },
+        {
+          "nom": "Écrans (Samsung Display)",
+          "part": 8.2
+        },
+        {
+          "nom": "Audio et automobile (Harman)",
+          "part": 4.3
+        }
+      ],
+      "note": "Samsung publie en wons : 333 600 milliards, soit environ 233 Md$ après conversion approximative. Les parts proviennent d'un agrégateur et sont calculées avant élimination des ventes entre divisions."
+    },
+    "services": [
+      "Fabrication de puces pour d'autres entreprises (Samsung Foundry)",
+      "Paiement mobile (Samsung Wallet)",
+      "Maison connectée (SmartThings)",
+      "Télévision en streaming (Samsung TV Plus)"
+    ],
+    "logiciels": {
+      "crees": [
+        "One UI",
+        "Bixby",
+        "Samsung Internet",
+        "Tizen",
+        "SmartThings",
+        "Knox"
+      ],
+      "utilises": [
+        {
+          "nom": "ChatGPT Enterprise",
+          "source": "https://www.koreatimes.co.kr/business/tech-science/20260622/openai-lands-samsung-as-major-chatgpt-enterprise-customer"
+        },
+        {
+          "nom": "Codex",
+          "source": "https://www.koreatimes.co.kr/business/tech-science/20260622/openai-lands-samsung-as-major-chatgpt-enterprise-customer"
+        },
+        {
+          "nom": "Cline",
+          "source": "https://www.koreajoongangdaily.com/business/samsung-electronics-to-adopt-ai-coding-assistant-to-boost-developer-productivity/12044851"
+        }
+      ],
+      "noteUtilises": "ChatGPT Enterprise et Codex ont été annoncés en juin 2026 pour ses salariés en Corée et sa division appareils dans le monde."
+    }
+  }
+]
